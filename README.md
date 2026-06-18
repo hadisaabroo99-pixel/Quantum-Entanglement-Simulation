@@ -25,7 +25,7 @@ Numerical simulations of Bell states, CHSH inequality violations, decoherence dy
 ## Repository Structure
 
 ```text
-Quantum-Entanglement-Simulation-01
+Quantum-Entanglement-Simulation
 │
 ├── README.md
 ├── requirements.txt
